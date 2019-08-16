@@ -41,8 +41,6 @@ https://gist.githubusercontent.com//b344ebc9475acdea1/MS-1
 https://gist.githubusercontent.com/BBcan177/b96dd281c5acd5327825a22c63f9f9c9/raw/94c1585a189347e35c0070a9e4de76fde2adb271/liste_fr.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
-https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/be5fddb116667699c246df97b79e1032ab71bb1c/MS-2
-I
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
 https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
@@ -74,7 +72,6 @@ https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/coinmine
 https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Malware.txt
 https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/filters/nsablocklist.txt
 https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/uMatrix/CK's-uMatrix-FilterList.txt
-http://phishing.mailscanner.info/phishing.bad.sites.conf
 https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
@@ -100,7 +97,6 @@ https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spo
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://adblock.mahakala.is/
-http://192.168.1.20:81/Panasonic_SmartTV.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
