@@ -1,5 +1,5 @@
+
 ps-172.pubnub.com
-spectrum.s3.amazonaws.com
 ss-prod-an1-notif-12.aws.adobess.com
 ps-776.pubnub.com
 scss-prod-an1.adobesc.com
@@ -48,3 +48,4 @@ video-edge-c8e480.lax03.abs.hls.ttvnw.net
 analytics.plex.tv
 device-metrics-us.amazon.com
 sdk.pushmessage.samsung.com
+diagnostics.meethue.com
