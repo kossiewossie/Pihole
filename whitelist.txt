@@ -24114,3 +24114,5 @@ usage.trackjs.com
 activity.windows.com
 ns8469rfvth42.xyz
 judua3rtinpst0s.xyz
+urldefense.proofpoint.com
+continuum.dds.microsoft.com
